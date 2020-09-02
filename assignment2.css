@@ -1,0 +1,31 @@
+form{
+    border: 1px solid #f2efe6;
+    background-color: #f2efe6;
+    margin-left: 400px;
+    margin-top: 30px;
+    width: 300px;
+    height: 450px;
+    text-align: center;
+    border-radius: 20px;
+}
+h3{
+    border: 1px solid #109c1e;
+    background-color: #109c1e;
+    color: whitesmoke;
+}
+input[type="text"],input[type="password"],input[type="email"],input[type=number]{
+    width: 250px;
+    height:20px;
+    border:1px solid #fcf7f8;
+    font-size:12px;
+}
+input[type="submit"]{
+    width: 100px;
+    height: 20px;
+    border: #109c1e;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+    background-color: #109c1e;
+    color: whitesmoke;
+}

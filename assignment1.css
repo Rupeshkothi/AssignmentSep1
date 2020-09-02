@@ -1,0 +1,86 @@
+body{
+    background-color: #787d7d;
+}
+
+
+
+form{
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 4px;
+    background-color:#1d1f1e;
+    width: 350px;
+    height: 350px;
+}
+
+#sign{
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-right: none;
+    color: white;
+    background-color:#09b399;
+    width: 150px;
+    height: 30px;
+    border: none;
+}
+
+#log{
+    color: white;
+    background-color:#506360;
+    width: 150px;
+    height: 30px;
+    border: none; 
+}
+
+h3{
+    margin-left: 110px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+   
+}
+#first{
+    margin-left: 25px;
+    width: 135px;
+    border-style: solid;
+    margin-bottom: 25px;
+    font-size: 10px;
+    height: 20px;
+   border-radius: 2px;
+}
+#last{
+    width: 135px;
+    margin-left: 10px;
+    border-style: solid;
+    margin-bottom: 25px;
+    font-size: 10px;
+    height: 20px;
+    border-radius: 2px;
+}
+#email{
+    width: 290px;
+    margin-left: 25px;
+    border-style: solid;
+    margin-bottom: 25px;
+    font-size: 10px;
+    height: 20px;
+    border-radius: 2px;
+}
+#pwd{
+    width: 290px;
+    margin-left: 25px;
+    border-style: solid;
+    margin-bottom: 25px;
+    font-size: 10px;
+    height: 20px;
+    border-radius: 2px;
+}
+#get{
+    margin-left: 25px;
+    background-color: #09b399;
+    color: white;
+    width: 300px;
+    height: 40px;
+    border: none;
+   font-family: 'Times New Roman', Times, serif;
+}
